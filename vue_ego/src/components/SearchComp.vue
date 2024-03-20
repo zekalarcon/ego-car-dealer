@@ -1,7 +1,6 @@
 <template>
   <div>
     <div class="lg:w-40 w-full relative mb-3">
-      <label for="query" class="block text-sm font-medium leading-6 text-gray-900">Category</label>
       <input v-model="query" type="text" id="query" required
         class="block w-full rounded-md border-0 p-1 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 sm:text-sm sm:leading-6">
 
