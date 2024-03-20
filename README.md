@@ -1,7 +1,6 @@
 <h1>Car dealer APP<h1></h1>
 <h2>API Backend and Frontend Admin Documentation</h2>
 
-Introduction
 This repository contains the source code for an API backend built with Python, Django, and Django REST Framework (DRF), along with a frontend admin interface developed with Vue.js version 3.
 
 Getting Started
