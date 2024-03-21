@@ -39,7 +39,7 @@ Username = example@example.com<br>
 Password = cardealer<br>
 
 
-To create a new user and pass, inside django_vue:<br>
+To create a new user and pass, inside django_ego:<br>
 python mananage.py createsuperuser<br>
 
 ![Screenshot from 2024-03-20 10-02-22](https://github.com/zekalarcon/ego-car-dealer/assets/67808305/ed8e79b5-2cdc-497d-80a6-fb98e6eab116)
