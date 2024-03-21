@@ -3,43 +3,43 @@
 
 This repository contains the source code for an API backend built with Python, Django, and Django REST Framework (DRF), along with a frontend admin interface developed with Vue.js version 3.
 
-Getting Started
-Prerequisites
-Python 3.x
-Django
-Django REST Framework
-Node.js
-Vue.js 3.x
-npm (Node Package Manager)
+Getting Started\n
+Prerequisites\n
+Python 3.x\n
+Django\n
+Django REST Framework\n
+Node.js\n
+Vue.js 3.x\n
+npm (Node Package Manager)\n
 
-Clone the repository:
-git clone <repository-url>
+Clone the repository:\n
+git clone <repository-url>\n
 
-Navigate to the backend directory:
-cd django_ego
+Navigate to the backend directory:\n
+cd django_ego\n
 
-Install Python dependencies:
-pip install -r req.txt
+Install Python dependencies:\n
+pip install -r req.txt\n
 
-Start the Django development server:
-python manage.py runserver
+Start the Django development server:\n
+python manage.py runserver\n
 
-Open another terminal window, navigate to the frontend directory:
-cd vue_ego
+Open another terminal window, navigate to the frontend directory:\n
+cd vue_ego\n
 
-Install npm dependencies:
-npm install
+Install npm dependencies:\n
+npm install\n
 
-Start the Vue.js development server:
-npm run serve
-
-
-Username = example@example.com
-Password = cardealer
+Start the Vue.js development server:\n\
+npm run serve\n
 
 
-To create a new user and pass, inside django_vue:
-python mananage.py createsuperuser
+Username = example@example.com\n
+Password = cardealer\n
+
+
+To create a new user and pass, inside django_vue:\n
+python mananage.py createsuperuser\n
 
 ![Screenshot from 2024-03-20 10-02-22](https://github.com/zekalarcon/ego-car-dealer/assets/67808305/ed8e79b5-2cdc-497d-80a6-fb98e6eab116)
 ![Screenshot from 2024-03-20 11-47-37](https://github.com/zekalarcon/ego-car-dealer/assets/67808305/0347325f-15e7-436c-9643-5cc5d98f82f9)
