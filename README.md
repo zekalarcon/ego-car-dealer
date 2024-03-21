@@ -17,7 +17,7 @@ Clone the repository:<br>
 git clone <repository-url><br>
 
 Navigate to the backend directory:<br>
-cd django_ego<br>
+django_ego<br>
 
 Install Python dependencies:<br>
 pip install -r req.txt<br>
@@ -26,7 +26,7 @@ Start the Django development server:<br>
 python manage.py runserver<br>
 
 Open another terminal window, navigate to the frontend directory:<br>
-cd vue_ego<br>
+vue_ego<br>
 
 Install npm dependencies:<br>
 npm install<br>
