@@ -31,7 +31,7 @@ cd vue_ego<br>
 Install npm dependencies:<br>
 npm install<br>
 
-Start the Vue.js development server:\<br>
+Start the Vue.js development server:<br>
 npm run serve<br>
 
 
