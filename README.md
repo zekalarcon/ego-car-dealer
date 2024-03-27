@@ -34,13 +34,12 @@ npm install<br>
 Start the Vue.js development server:<br>
 npm run serve<br>
 
-
 Username = example@example.com<br>
 Password = cardealer<br>
-
 
 To create a new user and pass, inside django_ego:<br>
 python mananage.py createsuperuser<br>
 
 ![Screenshot from 2024-03-20 10-02-22](https://github.com/zekalarcon/ego-car-dealer/assets/67808305/ed8e79b5-2cdc-497d-80a6-fb98e6eab116)
 ![Screenshot from 2024-03-20 11-47-37](https://github.com/zekalarcon/ego-car-dealer/assets/67808305/0347325f-15e7-436c-9643-5cc5d98f82f9)
+![Screenshot from 2024-03-27 14-59-41](https://github.com/zekalarcon/ego-car-dealer/assets/67808305/3639ab59-397c-4005-bde7-0033d5dbd847)
